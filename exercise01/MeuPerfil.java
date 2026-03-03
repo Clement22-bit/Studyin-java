@@ -1,4 +1,4 @@
-package exercicio01;
+package exercise01;
 
 public class MeuPerfil {
     public static void main(String[] args) {
