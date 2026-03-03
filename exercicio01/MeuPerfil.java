@@ -2,13 +2,13 @@ package exercicio01;
 
 public class MeuPerfil {
     public static void main(String[] args) {
-        String nome = "Pedro Henrique";
-        int idade = 21;
-        String cidade = "pindamonhangaba";
+        String name = "Pedro Henrique";
+        int age = 21;
+        String city = "pindamonhangaba";
 
-        System.out.println("Nome: " + nome);
-        System.out.println("Idade: " + idade);
-        System.out.println("Cidade: " + cidade);
+        System.out.println("name: " + name);
+        System.out.println("age: " + age);
+        System.out.println("City: " + city);
     }
 }
 
