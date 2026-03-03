@@ -1,6 +1,6 @@
 package exercicio01;
 
-public class MeuPerfil {
+public class Perfil {
     public static void main(String[] args) {
         String nome = "Pedro Henrique";
         int idade = 21;
